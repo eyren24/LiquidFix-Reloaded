@@ -1,4 +1,4 @@
-<a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
+<a><img src="https://i.ibb.co/BrrDqNc/Screenshot-1.png"/></a>
 
 Advanced fix tools and armor
 
