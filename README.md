@@ -1,4 +1,5 @@
-<span style="color:orange;">Word up</span>
+<a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
+
 Advanced fix tools and armor
 
 
