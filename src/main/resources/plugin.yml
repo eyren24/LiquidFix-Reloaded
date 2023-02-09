@@ -1,0 +1,17 @@
+name: LiquidFix Reloaded
+version: '${project.version}'
+main: com.emilianodellaciana.LiquidFixReloaded
+api-version: 1.8
+depend: [ PlaceholderAPI ]
+softdepend: [ vault ]
+authors: [ zSuperSettingsYT ]
+description: Custom fix inventory
+website: https://emilianodellaciana.com/
+commands:
+  liquidfix:
+    description: Main command
+  fix:
+    description: fix all problem
+    aliases:
+      - fixall
+      - repair
