@@ -1,4 +1,4 @@
-<center>LiquidFix</center>
+<h1 style="text-align:center; color: blue">LiquidFix</h1>
 Advanced fix tools and armor
 
 
