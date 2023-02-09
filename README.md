@@ -1,6 +1,4 @@
-```diff
-@@<h1 style="text-align:center; color: blue">LiquidFix</h1>@@
-```
+<span style="color:blue">LiquidFix</span>
 Advanced fix tools and armor
 
 
